@@ -1,3 +1,39 @@
+# React App ( A social plateform for developers)
+
+> A online portfolio for developers and with blog posting commenting and liking and a profile system made up with bootstrap and react js.
+
+
+## Built With
+
+- React Js.
+- Axios
+- Passport js 
+- Bootstrap
+
+
+## Getting Started
+
+**Just fork it and fell free to use it.**
+
+To get a local copy up from this [Node Js Api](https://github.com/0prodigy/node-api-hub) and running follow these simple example steps.
+
+### Prerequisites
+
+1 Install node js in your local system
+2 Install Mongodb in your local system
+3 Post Man (To check API)
+4 Code Editor
+5 Browser 
+
+
+### Install
+
+After making a copy of this repo  and node js repo open your cmd/terminal and use
+
+`npm install` (this will install all the dependencies ) you have to repate the process in both directories
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +102,31 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Authors
+
+👤 **Akash Pathak**
+
+- Github: [@0prodigy](https://github.com/0prodigy)
+- Twitter: [@pathakprodigy](https://twitter.com/pathakprodigy)
+- Linkedin: [Akash Pathak](https://www.linkedin.com/in/akash-pathak-0796a7165)
+- Email: (pathakvikash9211@gmail.com)
+
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/0prodigy/node-api-hub/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Content inspired by github and facebook
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
